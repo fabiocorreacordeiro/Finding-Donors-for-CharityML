@@ -1,0 +1,4 @@
+Ver:
+https://classroom.udacity.com/nanodegrees/nd009/parts/daaa0245-f3cf-4b34-a0ba-8939c1079513/modules/53e393af-8761-4cfb-b8bc-7db6875bd282/lessons/fc457ba7-efd8-44c4-8616-c479b7521a2a/concepts/e4dcb9a1-ccf0-4150-9220-5627f7fbd00c
+https://github.com/udacity/machine-learning
+https://review.udacity.com/#!/rubrics/406/view
